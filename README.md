@@ -1,7 +1,6 @@
 ### 项目经验
 
 **YOLOv8-Transformer 实时人体动作识别系统**  
-个人独立开发 · 2024.12 - 2025.12  
 
 - 基于 Ultralytics YOLOv8 实现多人实时人体检测，结合自研 Transformer 时序模型对连续帧序列进行动作分类，支持 6 类动作识别（jump / fall / near-fall / sitting / standing / running）  
 - 实现端到端视频实时处理流程：在检测框上动态显示动作标签与置信度，支持文件夹监控，自动处理新放入的视频文件  
